@@ -65,7 +65,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "© Copyright 2023 <a class=\"text-muted\" href=\"https://vproxy.cloud/\">Docs Cade</a> – All Rights Reserved."
+footer = "© Copyright 2023 <a class=\"text-muted\" href=\"https://docs.cafe/\">Docs Cafe</a> – All Rights Reserved."
 
 # Feed
 copyRight = "© Copyright 2023 Docs Cafe – All Rights Reserved"
